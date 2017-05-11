@@ -1,0 +1,281 @@
+[
+    [
+        "/Users/cmarzilli/geolocation/force-app",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1494508805000,
+            "changeTime": 1494508805000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1494508805000,
+            "changeTime": 1494508805000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1494512052000,
+            "changeTime": 1494512052000,
+            "contentHash": "f127b9aadbe0813b1fba1e6dcd9d5abf0892f82e"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1494511826000,
+            "changeTime": 1494511826000,
+            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1494511552000,
+            "changeTime": 1494511552000,
+            "contentHash": "b8ff723fb009a685fd96fb6d8a55f8c57f8ef133",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/objects/Account.object-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/objects/Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 14647,
+            "modifiedTime": 1494509445000,
+            "changeTime": 1494509445000,
+            "contentHash": "2324f6787f4b290aa6b2127e3efe810a1119acd3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 9700,
+            "modifiedTime": 1494509445000,
+            "changeTime": 1494509445000,
+            "contentHash": "d462d11d34851ee5c6d68c947d84db7b81de41c7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1494509445000,
+            "changeTime": 1494509445000,
+            "contentHash": "7e07eb8f1af457f56a1101d84cb8d06e8249b6d6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1494509445000,
+            "changeTime": 1494509445000,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1494511709000,
+            "changeTime": 1494511709000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 320,
+            "modifiedTime": 1494511761000,
+            "changeTime": 1494511761000,
+            "contentHash": "66bd611f8d0b0851a8203c9eb2740b83b4340d26",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1494511709000,
+            "changeTime": 1494511709000,
+            "contentHash": "094093bddfec3cb2afd9e9ef7819af6f245f1285",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1494511816000,
+            "changeTime": 1494511816000,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1494511854000,
+            "changeTime": 1494511854000,
+            "contentHash": "31251dc7642d9e1d8394a6347e5134d936ad0d55",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1494511816000,
+            "changeTime": 1494511816000,
+            "contentHash": "7ce4a6d6825d1a7105ab25d2165b6e50d39b7b17",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1494511875000,
+            "changeTime": 1494511875000,
+            "contentHash": "3e5ffe823b52d945a011f12c2b139e20b3d981c2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1494511816000,
+            "changeTime": 1494511816000,
+            "contentHash": "b1b80c03517595de32055092a501e68c53cfb549",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1494511816000,
+            "changeTime": 1494511816000,
+            "contentHash": "a7d178cb9a0ad1a1ff82eac22079a27ab838144b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1494511816000,
+            "changeTime": 1494511816000,
+            "contentHash": "b36185dd4dd5079811f45629fdd4b5d44366ca49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1494512052000,
+            "changeTime": 1494512052000,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/cmarzilli/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cmarzilli/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1494512052000,
+            "changeTime": 1494512052000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ]
+]
